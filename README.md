@@ -33,7 +33,7 @@
 
 ### Group 1 Charts authored by Tarak Patel
 
-#### Line Plot showing National Summarized Vaccine Allocations by Date
+#### Chart-1  Line Plot showing National Summarized Vaccine Allocations by Date
 
 * x-axis = Date (The data is reported weekly. To simplify the labels, convert the dates to a week number and then label by month.)
 
@@ -44,7 +44,7 @@
     * Note: y-axis data is a summation for all states
 * Legend labels = Pfizer + Moderna 1st dose, Pfizer + Moderna 2nd dose, J&J Single dose
 
-#### Line Plot showing National Vaccine Allocations by Date
+#### Chart-2  Line Plot showing National Vaccine Allocations by Date
 * x-axis = Date (The data is reported weekly. To simplify the labels, convert the dates to a week number and then label by month.)
 
 * y-axis = 
@@ -57,7 +57,7 @@
 
 * Legend labels = Pfizer 1st dose, Moderna 1st dose, Pfizer 2nd dose, Moderna 2nd dose, J&J Single dose
 
-#### Line Plot showing Individual State (Arizona) Vaccine Allocations by Date
+#### Chart-3  Line Plot showing Individual State (Arizona) Vaccine Allocations by Date
 * x-axis = Date (The data is reported weekly. To simplify the labels, convert the dates to a week number and then label by month.)
 
 * y-axis = 
@@ -70,7 +70,7 @@
 * Legend labels = Pfizer 1st dose, Moderna 1st dose, Pfizer 2nd dose, Moderna 2nd dose, J&J Single dose
 
 
-#### Bonus Line Plot showing Individual State (User Choice) Vaccine Allocations by Date
+#### Chart-4  Bonus Line Plot showing Individual State (User Choice) Vaccine Allocations by Date
 * x-axis = Date (The data is reported weekly. To simplify the labels, convert the dates to a week number and then label by month.)
 
 * y-axis = 
@@ -81,6 +81,24 @@
     * Line 5 - J&J allocations
 
 * Legend labels = Pfizer 1st dose, Moderna 1st dose, Pfizer 2nd dose, Moderna 2nd dose, J&J Single dose
+
+
+## Chart-5  Chart showing the Total Dose Allocated, Total Dose Administered And Total Population by State   
+x-axis = State  
+y-axis =   
+	1. Bar 1: Total Vaccine Administered by State  
+	2. Bar 2: Total Vaccines Allocated by State   
+	3. Bar 3: Total Population of the State  
+
+## Chart-6  Chart showing the % of Total Allocate Vaccines by CDS Vs % of Dose Administered by State (% calculated by dividing the Total Allocated and daily Vaccines by Each States Total Population)
+x-axis = State
+y-axis =
+	1. Bar 1: Total Vaccine Administered as % of Population of State  
+	2. Bar 2: Total Vaccines Allocated as % of Population of State  
+	
+
+The data for Vaccine Adminstered not separated by state between 12/14/2020 to 1/13/2021
+
 
 ### Group 2 Charts authored by Anne Niemiec
 
