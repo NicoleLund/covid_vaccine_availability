@@ -1,4 +1,6 @@
-# UofA Data Analytics Bootcamp Group Project 1
+# covid_vaccine_availability
+
+UofA Data Analytics Bootcamp Group Project 1
 
 -----
 
